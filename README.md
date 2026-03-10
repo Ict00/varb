@@ -1,5 +1,5 @@
 # VARB
-[**V**](https://github.com/vlang/v) [**A**rch](https://archlinux.org/) **Repository** **B**rowser - simple
+[**V**](https://github.com/vlang/v) [**A**rch](https://archlinux.org/) **R**epository **B**rowser - simple
 TUI app for browsing and installing packages using pacman
 
 ## Usage
@@ -28,3 +28,4 @@ $ cd varb
 $ v .
 ```
 4. Done! Now you have **varb** executable in the directory.
+
